@@ -52,7 +52,7 @@ function Contacts() {
                     gap: "1rem",
                 }}
             >
-                <a href={`mailto:${contactInfo.email}`} className="contact-card">
+                <div className="contact-card">
                     <div
                         style={{
                             padding: "0.7rem",
@@ -74,7 +74,7 @@ function Contacts() {
                             {contactInfo.email}
                         </div>
                     </div>
-                </a>
+                </div>
 
                 <a
                     href={contactInfo.githubUrl}
