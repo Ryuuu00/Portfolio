@@ -90,8 +90,6 @@ export default function Home() {
               - 2nd Place in DCST 2026 CSWeek Hackathon
               <br />
               - 4th Place DCST C/C++ Programming Competition 2026
-              <br />
-              - Tekken Undisputed back to back CHAMPION!!! RAHHH!!!!
             </p>
           </div>
         </section>
@@ -99,7 +97,6 @@ export default function Home() {
         <div style={{ marginTop: '4rem' }}>
           <Projects />
         </div>
-
         <div style={{ marginTop: '4rem' }}>
           <Contacts />
         </div>
